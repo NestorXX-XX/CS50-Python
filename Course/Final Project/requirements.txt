@@ -1,0 +1,5 @@
+pygame==2.5.2
+tabulate==0.9.0
+gtts==2.3.2
+random2==1.0.1
+os-sys==2.1.4
